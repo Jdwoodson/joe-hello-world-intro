@@ -1,0 +1,16 @@
+{
+  "name": "joe-hello-world-intro",
+  "version": "1.0.0",
+  "description": "A minimal project to practice fundamental Git and GitHub workflows, including commits, branching, and Pull Requests.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "git",
+    "hello-world",
+    "node"
+  ],
+  "author": "Jdwoodson",
+  "license": "ISC"
+}
